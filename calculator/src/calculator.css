@@ -1,0 +1,51 @@
+.box{
+	padding: 10px;
+	width: 160px;
+	height: 310px;
+	border: 1px solid;
+	background-color: black;
+	border-radius: 5px;
+}
+.view{
+	width: 160px;
+	height: 100px;
+    color: white;
+}
+.operation{
+	width: 160px;
+	height: 190px;
+}
+
+.operator{	
+	background-color: #DDD;
+	color: black;
+}
+.lastcol{
+	background-color: #FF8800;
+	color: white;
+}
+.double{
+	width: 70px;
+	border-radius: 15px;
+}
+button{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 3px;
+	margin-right: 2px;
+	width: 30px;
+	height: 30px;
+	border-radius:  20px;
+	border: none;
+	text-align: center;
+	color: #FFF;
+	background-color: #555555;
+}
+
+clickoperatior{
+	background-color: white;
+	color: #FF8800;
+}
+
+
+

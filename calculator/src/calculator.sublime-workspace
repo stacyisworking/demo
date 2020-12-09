@@ -1,0 +1,687 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"drag",
+				"drag"
+			],
+			[
+				"ondrag",
+				"ondragstart\tAttr"
+			],
+			[
+				"allow",
+				"allowDrop〔function〕"
+			],
+			[
+				"ondrage",
+				"ondragover\tAttr"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"config",
+				"$config_dir〔variable〕"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"print",
+				"printer_list"
+			],
+			[
+				"sessi",
+				"session_start"
+			],
+			[
+				"ses",
+				"session_start〔function〕"
+			],
+			[
+				"mysqli_num",
+				"mysqli_num_rows〔function〕"
+			],
+			[
+				"cos",
+				"colspan\tAttr"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"borderr",
+				"border-radius"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"boder",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"xml",
+				"xmlResult"
+			],
+			[
+				"mysqli_con",
+				"mysqli_connect_error〔function〕"
+			],
+			[
+				"else",
+				"else〔keyword〕"
+			],
+			[
+				"_",
+				"$_SERVER〔variable〕"
+			],
+			[
+				"cu",
+				"$cutomer〔variable〕"
+			],
+			[
+				"http",
+				"http-equiv\tAttr"
+			],
+			[
+				"els",
+				"elseif\telseif …"
+			],
+			[
+				"bch",
+				"$bchecked〔variable〕"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"wind",
+				"window.onload"
+			],
+			[
+				"create",
+				"createELement"
+			],
+			[
+				"dde",
+				"ddesc_text〔variable〕"
+			],
+			[
+				"dtitle",
+				"dtitle_text〔variable〕"
+			],
+			[
+				"cre",
+				"createTextNode"
+			],
+			[
+				"ge",
+				"getElementsByTagName〔function〕"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"er",
+				"eregi"
+			],
+			[
+				"de",
+				"desctext"
+			],
+			[
+				"pre",
+				"preparePlaceholder"
+			],
+			[
+				"new",
+				"newElemet"
+			],
+			[
+				"imag",
+				"imagegallery"
+			],
+			[
+				"node",
+				"nodeValue"
+			],
+			[
+				"gee",
+				"getElementsByTagNameNS〔function〕"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"marig",
+				"margin-top"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"mag",
+				"margin"
+			],
+			[
+				"padign",
+				"padding-right"
+			],
+			[
+				"cen",
+				"align-content"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"em",
+				"embed\tTag"
+			],
+			[
+				"联系人",
+				"联系人列表"
+			],
+			[
+				"con",
+				"controls"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"sta",
+				"status〔variable〕"
+			],
+			[
+				"_s",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"_SE",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"endfor",
+				"endforeach〔keyword〕"
+			],
+			[
+				"lef",
+				"left_in"
+			],
+			[
+				"re",
+				"removeChild"
+			],
+			[
+				"se",
+				"selector"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"right",
+				"right_out〔variable〕"
+			],
+			[
+				"left",
+				"left_out〔variable〕"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"data",
+				"data〔variable〕"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"slide",
+				"slideUp〔function〕"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"list-sty",
+				"list-style-image"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "packages",
+		"selected_items":
+		[
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"run aa.js;",
+			"run aa.ja;",
+			"run aa.js",
+			"a();",
+			"debug('ef');",
+			"console.log('efjo');",
+			"run",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp =sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener( urllib.request.ProxyHandler()) );open(os.path.join(ipp, pf),'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"est.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Stacy/Documents/calculator/src/calculator.html",
+		"/Users/Stacy/Documents/Github/myweb-ghpages/baidu/index.html",
+		"/Users/Stacy/Documents/apache-jmeter-5.3/bin/jmeter.properties",
+		"/Users/Stacy/Desktop/开发未完成/displayAbbrieviation/displayAbbreviation.js",
+		"/Users/Stacy/Desktop/开发未完成/insert/index.js",
+		"/Users/Stacy/Desktop/drag.html",
+		"/Users/Stacy/Desktop/aa.js",
+		"/Users/Stacy/Library/Application Support/Sublime Text 3/Packages/User/Node.sublime-build",
+		"/Users/Stacy/Desktop/debug(1);",
+		"/Users/Stacy/Library/Application Support/Sublime Text 3/Packages/User/JS.sublime-build",
+		"/Users/Stacy/Documents/Github/exercises/showObject/in.html",
+		"/Users/Stacy/Desktop/1.html",
+		"/Users/Stacy/Desktop/1",
+		"/Users/Stacy/Desktop/2014214570/blog.sql",
+		"/Users/Stacy/Desktop/2014214570/css.css",
+		"/Users/Stacy/Desktop/2014214570/header.php",
+		"/Library/WebServer/Documents/2014214570/css.css",
+		"/Library/WebServer/Documents/2014214570/footer.php",
+		"/Library/WebServer/Documents/2014214570/config.php",
+		"/Library/WebServer/Documents/2014214570/add.php",
+		"/Library/WebServer/Documents/2014214570/register.php",
+		"/Library/WebServer/Documents/2014214570/logout.php",
+		"/Library/WebServer/Documents/2014214570/login.php",
+		"/Library/WebServer/Documents/2014214570/index.php",
+		"/Library/WebServer/Documents/2014214570/header.php",
+		"/Library/WebServer/Documents/2014214570/test.php",
+		"/Library/WebServer/Documents/2014214570/view.php",
+		"/Library/WebServer/Documents/2014214570/inc/mysql.inc",
+		"/Library/WebServer/Documents/blog/blog/css/css.css",
+		"/Users/Stacy/Desktop/2014214570/mysql.inc",
+		"/Users/Stacy/Desktop/2014214570/test2.xml",
+		"/Users/Stacy/Desktop/2014214570/test1.java",
+		"/Users/Stacy/Desktop/2014214570/test2.java",
+		"/Users/Stacy/Desktop/屏幕快照 2016-12-22 14.24.04.png",
+		"/Users/Stacy/Desktop/2/Test1.java",
+		"/Users/Stacy/Desktop/2/1.java",
+		"/Users/Stacy/Desktop/users.dbf",
+		"/Library/WebServer/Documents/insertformhandler.php",
+		"/Library/WebServer/Documents/htmlform.html",
+		"/Library/WebServer/Documents/a.php",
+		"/Users/Stacy/Desktop/bookxml1.java",
+		"/Users/Stacy/Desktop/book.xml",
+		"/Users/Stacy/Desktop/bookxml.java",
+		"/Users/Stacy/Desktop/Testxml.java",
+		"/Users/Stacy/Desktop/test.xml",
+		"/Users/Stacy/Desktop/a.php",
+		"/a.php",
+		"/mysql.php",
+		"/Users/Stacy/Desktop/2014214570/save.php",
+		"/Users/Stacy/Desktop/a/11.5.php",
+		"/Users/Stacy/Desktop/a/11.6.php",
+		"/Users/Stacy/Desktop/a/11.7.php",
+		"/Users/Stacy/Desktop/a/11.8.php",
+		"/Users/Stacy/Desktop/a/11.9.php",
+		"/Users/Stacy/Desktop/a/11.2.php",
+		"/Users/Stacy/Desktop/a/11.3.php",
+		"/Users/Stacy/Desktop/a/11.4.php",
+		"/Users/Stacy/Desktop/a/form.html",
+		"/Users/Stacy/Desktop/a/form.php",
+		"/Library/WebServer/Documents/a/form.html",
+		"/Library/WebServer/Documents/a/6.2.php",
+		"/Users/Stacy/Desktop/displayAbbrieviation/addLoadEvent.js",
+		"/Users/Stacy/Desktop/css综合实验/index.html",
+		"/Users/Stacy/Desktop/2014214570/6-4.css",
+		"/Users/Stacy/Desktop/2014214570/6-4.xml",
+		"/Users/Stacy/Desktop/2014214570/6-2.css",
+		"/Users/Stacy/Desktop/2014214570/6-2.xml",
+		"/Users/Stacy/Desktop/2014214570/5-1.php",
+		"/Library/WebServer/Documents/p/5.12.php",
+		"/Library/WebServer/Documents/5-13.php",
+		"/Users/Stacy/Desktop/displayAbbrieviation/5-13.php",
+		"/Users/Stacy/Documents/Github/task_2_18/index.html",
+		"/Users/Stacy/Documents/Github/task_2_18/index.js",
+		"/Users/Stacy/Documents/index.html",
+		"/Users/Stacy/Documents/thinkphp/page1.php",
+		"/Users/Stacy/Desktop/gallery.html",
+		"/Library/WebServer/Documents/php/3.16.php",
+		"/Library/WebServer/Documents/php/3.15.php",
+		"/Library/WebServer/Documents/php/3.14.php",
+		"/Library/WebServer/Documents/php/3.13.php",
+		"/Library/WebServer/Documents/php/3.13.ph",
+		"/Library/WebServer/Documents/php/3.12.php",
+		"/Library/WebServer/Documents/php/3.11.php",
+		"/Library/WebServer/Documents/php/3.10.php",
+		"/Library/WebServer/Documents/php/3.9.php",
+		"/Library/WebServer/Documents/php/3.8.php",
+		"/Library/WebServer/Documents/php/3.7.php",
+		"/Library/WebServer/Documents/php/3.5.php",
+		"/Library/WebServer/Documents/php/3.4.php",
+		"/Library/WebServer/Documents/php/3.6.php",
+		"/Library/WebServer/Documents/php/3.3.php",
+		"/Library/WebServer/Documents/php/3.2.php",
+		"/Users/Stacy/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Stacy/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Library/WebServer/Documents/php/test.php",
+		"/Library/WebServer/Documents/php/3.1.php",
+		"/Users/Stacy/Desktop/php/ch03\\3.1.php",
+		"/Users/Stacy/Desktop/ch03\\3.1.php",
+		"/Users/Stacy/Desktop/a/index.css",
+		"/Users/Stacy/Desktop/a/index.html",
+		"/Users/Stacy/a/index.html",
+		"/Users/Stacy/Desktop/DTD综合实验/bowuguan.xml",
+		"/Users/Stacy/Desktop/DTD综合实验/youhua.dtd",
+		"/Users/Stacy/Desktop/DTD综合实验/bowuguan2.xml",
+		"/Users/Stacy/Desktop/DTD综合实验/bowuguan.dtd",
+		"/Users/Stacy/Desktop/DTD综合实验/diaosu.dtd",
+		"/Users/Stacy/Desktop/DTD综合实验/diaosu.xml",
+		"/Users/Stacy/Desktop/DTD综合实验/youhua.xml",
+		"/Users/Stacy/Desktop/youhua.dtd",
+		"/Users/Stacy/Desktop/form.html",
+		"/Users/Stacy/Desktop/Web程序设计/test2/test2.html",
+		"/Users/Stacy/Desktop/Web程序设计/test1.html",
+		"/Users/Stacy/Documents/课程/网站设计PHP/2/2014214570.html",
+		"/Users/Stacy/Desktop/Web程序设计/test3/frame.html",
+		"/Users/Stacy/Desktop/Web程序设计/test3/home_page.html",
+		"/Users/Stacy/Desktop/Web程序设计/test3/intro.html",
+		"/Users/Stacy/Desktop/Web程序设计/test3/work.html",
+		"/Users/Stacy/Desktop/Web程序设计/test3/left.html",
+		"/Users/Stacy/Desktop/2014214570/test4-4.xml",
+		"/Users/Stacy/Desktop/2014214570/test4-3.xml",
+		"/Users/Stacy/Desktop/2014214570/test4-1.xml",
+		"/Users/Stacy/Desktop/2014214570/test1.xml",
+		"/Users/Stacy/Desktop/2014214570/2014214570.html",
+		"/Users/Stacy/Desktop/2014214570.html",
+		"/Users/Stacy/Library/Application Support/Sublime Text 3/Packages/User/C#.sublime-build",
+		"/Users/Stacy/Desktop/afkj.cs",
+		"/Users/Stacy/Documents/课程/web站点设计/NO3.xml",
+		"/Users/Stacy/Desktop/NO5.xml"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 89.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 29.0
+	},
+	"pinned_build_system": "Packages/User/Node.sublime-build",
+	"project": "calculator.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
