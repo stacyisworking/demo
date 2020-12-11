@@ -1,48 +1,51 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 	<meta charset='utf-8'>
 	<title>calculator</title>
 	<link rel="stylesheet" type="text/css" href="calculator.css">
 </head>
+
 <body>
-<div class="box"s>
-	<div class="view">
-		<span class="display"></span>
+	<div class="box" s>
+		<div class="view">
+			<span class="display"></span>
+		</div>
+		<div class="operation">
+			<span>
+				<button class="operator ac">AC</button>
+				<button class="operator delete"><img src="../res/img/delete.svg"></button>
+				<button class="operator per">%</button>
+				<button class="operator lastcol"><img src="../res/img/divide.svg"></button>
+			</span>
+			<span>
+				<button class="number">7</button>
+				<button class="number">8</button>
+				<button class="number">9</button>
+				<button class="operator lastcol">X</button>
+			</span>
+			<span>
+				<button class="number">4</button>
+				<button class="number">5</button>
+				<button class="number">6</button>
+				<button class="operator lastcol">--</button>
+			</span>
+			<span>
+				<button class="number">1</button>
+				<button class="number">2</button>
+				<button class="number">3</button>
+				<button class="operator lastcol">+</button>
+			</span>
+			<span class="fifth">
+				<button class="number double">0</button>
+				<button class="number dot">.</button>
+				<button class="operator lastcol">=</button>
+			</span>
+		</div>
 	</div>
-	<div class="operation">
-		<span>
-			<button class="operator ac">AC</button>
-			<button class="operator">d</button>
-			<button class="operator">%</button>
-			<button class="operator lastcol">/</button>
-		</span>
-		<span>
-			<button class="number">7</button>
-			<button class="number">8</button>
-			<button class="number">9</button>
-			<button class="operator lastcol">X</button>
-		</span>
-		<span>
-			<button class="number">4</button>
-			<button class="number">5</button>
-			<button class="number">6</button>
-			<button class="operator lastcol">-</button>
-		</span>
-		<span>
-			<button class="number">1</button>
-			<button class="number">2</button>
-			<button class="number">3</button>
-			<button class="operator lastcol">+</button>
-		</span>
-		<span class="fifth">
-			<button class="number double">0</button>
-			<button class="number">.</button>
-			<button class="operator lastcol">=</button>
-		</span>
-	</div>
-</div>
-<script type="text/javascript" src="../ref/jquery.min.js"></script>
-<script type="text/javascript" src="calculator.js"></script>
+	<script type="text/javascript" src="../res/js/jquery.min.js"></script>
+	<script type="text/javascript" src="calculator.js"></script>
 </body>
+
 </html>
