@@ -1,24 +1,34 @@
 var view = "",lastOpe = "";
 var num1 = 0,num2 = 0,count = 0;
 
-var reset=function(){
+var reset = function(){
 	num1 = 0,num2 = 0,count = 0;
 	view = "",lastOpe = "";
+	$(".display").text("0");
 	fitSize(6);
 }
 
 var fitSize = function(n){
 	// var tmp = typeof(n) == "number" ? n: Number(n);
+	if (view.indexOf(".") != -1) {
+		n--;
+	}
 	$(".display").css("font-size",45 - (n - 6) * 5 + "px");
 	$(".display").css("padding-top",40 + (n - 6) * 5 + "px");
 
+}
+
+reset();
+
+var show = function () {
+	$(".display").text(view);
 }
 
 $(".number").click(function(){
 	if (lastOpe == "=") {
 		reset();
 	}
-	if (view.length < 9){	
+	if (view.length < 9 ){	
 		var number = this.innerText;
 		view += number;
 		view.length == 7 ? fitSize(7) : view.length == 8 ? fitSize(8) : view.length == 9 ? fitSize(9):"";
@@ -28,20 +38,24 @@ $(".number").click(function(){
 			num2 = Number(view);
 		}
 	}	
-	$(".display").text(view);
+	show();
 });
 
 $(".ac").click(function(){
 	reset();
-	$(".display").text(view);
 });
 
 $(".delete").click(function(){
 	view = view.substring(0,view.length-1);
-	$(".display").text(view);
+	show();
 });
 
-$(".lastcol").click(function(){
+$(".per").click(function(){
+    view = Number(view) / 100;
+    show();
+});
+
+$(".operator").click(function(){
 	count++;
 	var currentOpe = this.innerText;
 	if (count == 1) {
@@ -78,7 +92,7 @@ $(".lastcol").click(function(){
 					case "=" :
 					    break;
 				}
-				$(".display").text(view);
+				show();
 				num1 = Number(view);
 				num2 = 0;
 				lastOpe = currentOpe;
@@ -86,6 +100,6 @@ $(".lastcol").click(function(){
 				break;
 		}
 	}
-	$(".display").text(view);
+	show();
 	view = "";
 })
