@@ -30,7 +30,13 @@ $(".number").click(function(){
 	}
 	if (view.length < 9 ){	
 		var number = this.innerText;
-		view += number;
+		if (number == "." && view.indexOf(".") != -1) {
+			number = "";
+		}
+		if (Number(view) == 0 && Number(number) == 0 && view.indexOf(".") == -1) {
+			view = number;
+		}else view += number;		    
+		
 		view.length == 7 ? fitSize(7) : view.length == 8 ? fitSize(8) : view.length == 9 ? fitSize(9):"";
 		if (count == 0) {
 			num1 = Number(view);
