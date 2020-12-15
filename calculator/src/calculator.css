@@ -1,5 +1,5 @@
 :root{
-	--width: 163px;
+	--width: 180px;
 	--lastBack: #FF8800;
 	--ohtherBack: #DDD;
 	--numberBack: #555555;
@@ -11,7 +11,7 @@
 .box{
 	padding: 10px;
 	width: var(--width);
-	height: 310px;
+	height: 325px;
 	border: 1px solid;
 	background-color: black;
 	border-radius: 5px;
@@ -20,7 +20,7 @@
 
 .view{
 	width: var(--width);
-	height: 100px;   
+	height: 115px;   
 	float: right;
 }
 
@@ -32,9 +32,10 @@
 
 .operation{
 	clear: both;
-	margin-top: 100px;
+	margin-top: 110px;
 	width: var(--width);
-	height: 190px;
+	height: 220px;
+	text-align: center;
 }
 
 .firstRow{	
@@ -58,7 +59,7 @@ button{
 	margin-top: 5px;
 	margin-bottom: 5px;
 	margin-left: 3px;
-	margin-right: 2px;
+	margin-right: 3px;
 	width: 30px;
 	height: 30px;
 	border-radius:  20px;

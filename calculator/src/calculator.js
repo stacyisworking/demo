@@ -10,9 +10,9 @@ var reset = function(){
 
 var fitSize = function(n){
 	// var tmp = typeof(n) == "number" ? n: Number(n);
-	if (view.indexOf(".") != -1) {
-		n--;
-	}
+	// if (view.indexOf(".") != -1) {
+	// 	n--;
+	// }
 	$(".display").css("font-size",45 - (n - 6) * 5 + "px");
 	$(".display").css("padding-top",40 + (n - 6) * 5 + "px");
 
@@ -28,16 +28,22 @@ $(".number").click(function(){
 	if (lastOpe == "=") {
 		reset();
 	}
-	if (view.length < 9 ){	
+	var noPoint = view.length;
+	if (view.indexOf(".") != -1) {
+		noPoint--;
+	}
+	if (noPoint < 9 ){	
 		var number = this.innerText;
 		if (number == "." && view.indexOf(".") != -1) {
 			number = "";
 		}
 		if (Number(view) == 0 && Number(number) == 0 && view.indexOf(".") == -1) {
 			view = number;
-		}else view += number;		    
-		
-		view.length == 7 ? fitSize(7) : view.length == 8 ? fitSize(8) : view.length == 9 ? fitSize(9):"";
+		}else {
+			view += number;	
+			noPoint++;	    
+		}
+		noPoint == 7 ? fitSize(7) : noPoint == 8 ? fitSize(8) : noPoint == 9 ? fitSize(9):"";
 		if (count == 0) {
 			num1 = Number(view);
 		}else if (count > 0) {
