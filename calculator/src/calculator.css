@@ -3,7 +3,7 @@
 	--lastBack: #FF8800;
 	--ohtherBack: #DDD;
 	--numberBack: #555555;
-
+	--clickBack: #D8D8D8;
 
 
 }
@@ -75,10 +75,14 @@ img{
 	vertical-align: middle;
 }
 
-clickoperatior{
+.clickOperator{
 	background-color: white;
-	color: #FF8800;
+	color: var(--lastBack);
 }
+.clickNumber{
+	background-color: var(--clickBack);
+}
+
 
 
 

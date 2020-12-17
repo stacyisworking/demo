@@ -24,7 +24,19 @@ var show = function () {
 	$(".display").text(view);
 }
 
+$(".number").focus(function(){
+	$(this).addClass("clickNumber");
+});
+
+// $(".number").blur(function(){
+// 	$(this).removeClass("clickNumber");
+// });
+
 $(".number").click(function(){
+	if($(".operator").hasClass("clickOperator")){
+		$(".operator").removeClass("clickOperator");
+	}
+	$(this).removeClass("clickNumber");
 	if (lastOpe == "=") {
 		reset();
 	}
@@ -68,6 +80,11 @@ $(".per").click(function(){
 });
 
 $(".operator").click(function(){
+	if($(".operator").hasClass("clickOperator")){
+		$(".operator").removeClass("clickOperator");
+		$(this).addClass("clickOperator");
+	}else $(this).addClass("clickOperator");
+
 	count++;
 	var currentOpe = this.innerText;
 	if (count == 1) {
