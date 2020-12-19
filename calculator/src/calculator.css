@@ -1,9 +1,9 @@
 :root{
 	--width: 180px;
 	--lastBack: #FF8800;
-	--ohtherBack: #DDD;
+	--ohtherBack: #C0C0C0;
 	--numberBack: #555555;
-	--clickBack: #D8D8D8;
+	--clickBack: #F8F8F8;
 
 
 }
@@ -72,6 +72,9 @@ button{
 img{
 	width: 14px;
 	height: 15px;
+	vertical-align: middle;
+}
+svg{
 	vertical-align: middle;
 }
 
