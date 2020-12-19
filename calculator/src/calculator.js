@@ -31,9 +31,9 @@ $(".number").mousedown(function(){
 });
 
 $(".firstRow").mousedown(function(){
-	$(this).addClass("clickNumber");
+	$(this).addClass("clickFirstRow");
 }).mouseup(function(){
-	$(this).removeClass("clickNumber");
+	$(this).removeClass("clickFirstRow");
 });
 
 $(".number").click(function(){
@@ -74,8 +74,11 @@ $(".ac").click(function(){
 });
 
 $(".delete").click(function(){
-	view = view.substring(0,view.length-1);
-	show();
+	if (view){
+		view = view.substring(0,view.length-1);
+	 	show();	
+	}
+
 });
 
 $(".per").click(function(){

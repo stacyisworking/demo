@@ -3,9 +3,7 @@
 	--lastBack: #FF8800;
 	--ohtherBack: #C0C0C0;
 	--numberBack: #555555;
-	--clickBack: #F8F8F8;
-
-
+	--clickBack: #E0E0E0;
 }
 
 .box{
@@ -69,11 +67,6 @@ button{
 	background-color: var(--numberBack);
 }
 
-img{
-	width: 14px;
-	height: 15px;
-	vertical-align: middle;
-}
 svg{
 	vertical-align: middle;
 }
@@ -85,7 +78,9 @@ svg{
 .clickNumber{
 	background-color: var(--clickBack);
 }
-
+.clickFirstRow{
+	background: white;
+}
 
 
 
